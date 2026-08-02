@@ -12,18 +12,6 @@
 
 <br/>
 
-```bash
-Pooja@portfolio ~ % whoami
-```
-```yaml
-role:        Software Engineer | Java Backend Developer
-education:   MCA, East West Institute of Technology, Bangalore (CGPA: 8.8/10)
-focus:       Backend Development · Desktop Applications · System Design
-status:      Open to Software Engineer / Backend Developer / Full Stack roles
-```
-
-<br/>
-
 ### <img src="https://img.shields.io/badge/-%3E_stack.config-1E1E1E?style=flat-square&logoColor=569CD6" height="24"/>
 
 <p>
@@ -180,9 +168,6 @@ status:      Open to Software Engineer / Backend Developer / Full Stack roles
 
 <br/>
 
-```bash
-Pooja@portfolio ~ % contact --me
-```
 <p align="center">
 <a href="https://linkedin.com/in/pooja-n-naik"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=569CD6" /></a>
 <a href="https://poojanaik.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=firefox&logoColor=CE9178" /></a>
