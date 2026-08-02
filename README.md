@@ -24,19 +24,6 @@ status:      Open to Software Engineer / Backend Developer / Full Stack roles
 
 <br/>
 
-### <img src="https://img.shields.io/badge/-%3E_about.json-1E1E1E?style=flat-square&logoColor=569CD6" height="24"/>
-
-```json
-{
-  "name": "Pooja Naik",
-  "currentlyLearning": ["Spring Boot", "Microservices", "System Design", "Qt", "C++"],
-  "strengths": ["Java", "Spring Boot", "REST APIs", "C++/Qt", "MERN Stack"],
-  "funFact": "I like taking projects from just an idea to a fully working, real-world application"
-}
-```
-
-<br/>
-
 ### <img src="https://img.shields.io/badge/-%3E_stack.config-1E1E1E?style=flat-square&logoColor=569CD6" height="24"/>
 
 <p>
@@ -141,6 +128,41 @@ status:      Open to Software Engineer / Backend Developer / Full Stack roles
 `JavaScript`
 
 🔗 [github.com/naikpoojagetoewit/digital-logic-simulator](https://github.com/naikpoojagetoewit/digital-logic-simulator)
+</details>
+
+<details>
+<summary><b>📄 Resume ATS System</b> — Resume screening / ATS scoring tool</summary>
+<br/>
+
+`Python` `Flask` `Tkinter` `SQLite`
+
+- Flask-based web interface alongside a Tkinter desktop client
+- SQLite for local data storage
+
+🔗 [github.com/naikpoojagetoewit/resume_ats_system](https://github.com/naikpoojagetoewit/resume_ats_system)
+</details>
+
+<details>
+<summary><b>🔐 User Authentication System</b> — Java-based login & auth system</summary>
+<br/>
+
+`Java` `Servlets` `JSP`
+
+- Built using core Java web technologies — Servlets & JSP
+- Handles user login/authentication flows
+
+🔗 [github.com/naikpoojagetoewit/User-Authentication-System](https://github.com/naikpoojagetoewit/User-Authentication-System)
+</details>
+
+<details>
+<summary><b>🖊️ AksharaX-IDE</b> — Custom code editor / IDE</summary>
+<br/>
+
+`Python`
+
+- A custom-built code editor / IDE application
+
+🔗 [github.com/naikpoojagetoewit/AksharaX-IDE](https://github.com/naikpoojagetoewit/AksharaX-IDE)
 </details>
 
 <br/>
