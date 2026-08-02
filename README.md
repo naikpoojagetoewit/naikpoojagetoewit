@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=569CD6&background=1E1E1E00&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Pooja+Naik+%F0%9F%91%8B;Software+Engineer+%7C+Java+Backend+Developer;C%2B%2B+%26+Qt+%7C+Spring+Boot;Building+scalable+backend+systems...;Currently+looking+for+new+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=569CD6&background=1E1E1E00&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Pooja+Naik+%F0%9F%91%8B;Software+Engineer+%7C+Backend+Developer;Java+%7C+Spring+Boot+%7C+C%2B%2B+%7C+Qt;Open+to+new+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -171,7 +171,7 @@ status:      Open to Software Engineer / Backend Developer / Full Stack roles
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=naikpoojagetoewit&show_icons=true&hide_border=true&bg_color=1E1E1E&title_color=569CD6&text_color=D4D4D4&icon_color=CE9178" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naikpoojagetoewit&hide_border=true&background=1E1E1E&stroke=1E1E1E&ring=569CD6&fire=CE9178&currStreakLabel=D4D4D4" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naikpoojagetoewit&hide_border=true&background=1E1E1E&border=1E1E1E&stroke=1E1E1E&ring=569CD6&fire=CE9178&currStreakNum=D4D4D4&sideNums=D4D4D4&currStreakLabel=D4D4D4&sideLabels=D4D4D4&dates=9B9B9B" width="48%" />
 </p>
 
 <p align="center">
