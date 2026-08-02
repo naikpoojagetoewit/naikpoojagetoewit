@@ -42,7 +42,7 @@
 
 <br/>
 
-### <img src="https://img.shields.io/badge/-%3E_projects.ts-1E1E1E?style=flat-square&logoColor=569CD6" height="24"/>
+### <img src="https://img.shields.io/badge/-%3E_projects.md-1E1E1E?style=flat-square&logoColor=569CD6" height="24"/>
 <sub>Click each project to expand ▾</sub>
 
 <details>
