@@ -1,177 +1,139 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=569CD6&background=1E1E1E00&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Pooja+Naik+%F0%9F%91%8B;Software+Engineer+%7C+Backend+Developer;Java+%7C+Spring+Boot+%7C+C%2B%2B+%7C+Qt;Open+to+new+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pooja%20Naik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full-Stack%20Developer%20%7C%20Embedded%20Systems%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+with+Java+%26+Spring+Boot;From+circuits+to+code+%E2%80%94+embedded+systems+to+full-stack+web" alt="Typing SVG" />
 
-<a href="https://linkedin.com/in/pooja-n-naik"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=569CD6" /></a>
-<a href="https://poojanaik.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=firefox&logoColor=CE9178" /></a>
-<a href="mailto:npoojanaik12@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=DCDCAA" /></a>
+![Profile Views](https://komarev.com/ghpvc/?username=naikpoojagetoewit&color=A78BFA&style=flat)
+![Followers](https://img.shields.io/github/followers/naikpoojagetoewit?label=Followers&color=A78BFA&style=flat)
 
 </div>
 
-<br/>
+---
 
-### <img src="https://img.shields.io/badge/-%3E_stack.config-1E1E1E?style=flat-square&logoColor=569CD6" height="24"/>
+### 🔗 Connect With Me
 
-<p>
-<img src="https://img.shields.io/badge/Java-1E1E1E?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-<img src="https://img.shields.io/badge/C++-1E1E1E?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
-<img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-1E1E1E?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
-<img src="https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=node.js&logoColor=339933" />
-<img src="https://img.shields.io/badge/Express-1E1E1E?style=for-the-badge&logo=express&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Flask-1E1E1E?style=for-the-badge&logo=flask&logoColor=ffffff" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/MongoDB-1E1E1E?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/Redis-1E1E1E?style=for-the-badge&logo=redis&logoColor=DC382D" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Qt-1E1E1E?style=for-the-badge&logo=qt&logoColor=41CD52" />
-<img src="https://img.shields.io/badge/CMake-1E1E1E?style=for-the-badge&logo=cmake&logoColor=064F8C" />
-<img src="https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://linkedin.com/in/pooja-n-naik" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/naikpoojagetoewit" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="mailto:npoojanaik12@gmail.com" target="_blank">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email"/>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://instagram.com/_poojanaik_" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="55" height="55" alt="Instagram"/>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://twitter.com/npoojanaik12" target="_blank">
+        <img src="https://cdn.simpleicons.org/x/ffffff" width="55" height="55" alt="X"/>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://poojanaik.netlify.app/" target="_blank">
+        <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="55" height="55" alt="Portfolio"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br/>
+---
 
-### <img src="https://img.shields.io/badge/-%3E_projects.md-1E1E1E?style=flat-square&logoColor=569CD6" height="24"/>
-<sub>Click each project to expand ▾</sub>
+### 🛠️ Tech Stack
 
-<details>
-<summary><b>🍽️ ChefsConnect</b> — Workplace cafeteria management platform</summary>
-<br/>
+**Languages**
+<table><tr>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" title="Java"/></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" title="C"/></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" title="C++"/></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" title="JavaScript"/></td>
+</tr></table>
 
-`Node.js` `Express` `React` `PostgreSQL`
+**Backend & Frameworks**
+<table><tr>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" height="55" title="Spring Boot"/></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" title="Flask"/></td>
+<td align="center" width="70"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="55" height="55" title="Postman"/></td>
+</tr></table>
 
-- Role-based authentication & QR verification
-- Order lifecycle management
-- End-to-end payment workflow
+**Embedded & Desktop**
+<table><tr>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55" height="55" title="Arduino"/></td>
+<td align="center" width="70"><img src="https://cdn.simpleicons.org/qt/41CD52" width="55" height="55" title="Qt"/></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="55" height="55" title="CMake"/></td>
+</tr></table>
 
-🔗 [github.com/naikpoojagetoewit/chefs-connect](https://github.com/naikpoojagetoewit/chefs-connect)
-</details>
+**Web & Frontend**
+<table><tr>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" title="HTML5"/></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" title="CSS3"/></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" title="React"/></td>
+</tr></table>
 
-<details>
-<summary><b>🎉 Momenta Event Management</b> — AI-assisted event booking platform</summary>
-<br/>
+**Databases**
+<table><tr>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" title="PostgreSQL"/></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" title="MySQL"/></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" title="MongoDB"/></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="55" height="55" title="Redis"/></td>
+</tr></table>
 
-`Python` `Flask`
+**Cloud & Infra**
+<table><tr>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55" height="55" title="AWS"/></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" title="Docker"/></td>
+</tr></table>
 
-- Event booking & live budget estimation
-- PDF generation
-- Multi-user role management (client / admin / manager / team)
+**Dev Tools**
+<table><tr>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" title="Git"/></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" title="GitHub"/></td>
+</tr></table>
 
-🔗 [github.com/naikpoojagetoewit/momenta-event-management](https://github.com/naikpoojagetoewit/momenta-event-management)
-</details>
+---
 
-<details>
-<summary><b>🎓 Eshala — Academic Management Portal</b> — MERN academic management portal</summary>
-<br/>
+### 📊 GitHub Analytics
 
-`MongoDB` `Express` `React` `Node.js`
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=naikpoojagetoewit&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=00000000" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naikpoojagetoewit&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=00000000" width="48%"/>
+</div>
 
-- Role-based access for students, lecturers & admins
-- REST APIs for academic workflows
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naikpoojagetoewit&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
+</div>
 
-🔗 [github.com/naikpoojagetoewit/Eshala-An-Academic-Management-Portal](https://github.com/naikpoojagetoewit/Eshala-An-Academic-Management-Portal)
-</details>
+### 📈 Contribution Activity
 
-<details>
-<summary><b>🏠 NestFind AI</b> — AI-powered rental property platform</summary>
-<br/>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naikpoojagetoewit&theme=tokyo-night&hide_border=true&color=A78BFA&line=A78BFA&point=ffffff" width="95%"/>
+</div>
 
-`MongoDB` `Express` `React` `Node.js`
+---
 
-- JWT authentication & Redis caching
-- Docker Compose deployment
-- Visit booking & Razorpay payments
+<div align="center">
 
-🔗 [github.com/naikpoojagetoewit/nestfind-ai](https://github.com/naikpoojagetoewit/nestfind-ai)
-</details>
+*"Simplicity is the soul of efficiency."*
 
-<details>
-<summary><b>🖥️ Industrial SCADA Dashboard</b> — Real-time C++/Qt SCADA/HMI desktop app</summary>
-<br/>
+```
+╔══════════════════════════════════════╗
+║           STATUS: BUILDING            ║
+╚══════════════════════════════════════╝
+```
 
-`C++` `Qt` `CMake`
+</div>
 
-- Real-time process simulation & analog gauges
-- Alarm management with live thresholds
-- Trend visualization with an industrial-style UI
+---
 
-🔗 [github.com/naikpoojagetoewit/Industrial-SCADA-Dashboard](https://github.com/naikpoojagetoewit/Industrial-SCADA-Dashboard)
-</details>
-
-<details>
-<summary><b>🔌 Digital Logic Simulator</b> — Interactive digital logic circuit simulator</summary>
-<br/>
-
-`JavaScript`
-
-🔗 [github.com/naikpoojagetoewit/digital-logic-simulator](https://github.com/naikpoojagetoewit/digital-logic-simulator)
-</details>
-
-<details>
-<summary><b>📄 Resume ATS System</b> — Resume screening / ATS scoring tool</summary>
-<br/>
-
-`Python` `Flask` `Tkinter` `SQLite`
-
-- Flask-based web interface alongside a Tkinter desktop client
-- SQLite for local data storage
-
-🔗 [github.com/naikpoojagetoewit/resume_ats_system](https://github.com/naikpoojagetoewit/resume_ats_system)
-</details>
-
-<details>
-<summary><b>🔐 User Authentication System</b> — Java-based login & auth system</summary>
-<br/>
-
-`Java` `Servlets` `JSP`
-
-- Built using core Java web technologies — Servlets & JSP
-- Handles user login/authentication flows
-
-🔗 [github.com/naikpoojagetoewit/User-Authentication-System](https://github.com/naikpoojagetoewit/User-Authentication-System)
-</details>
-
-<details>
-<summary><b>🖊️ AksharaX-IDE</b> — Custom code editor / IDE</summary>
-<br/>
-
-`Python`
-
-- A custom-built code editor / IDE application
-
-🔗 [github.com/naikpoojagetoewit/AksharaX-IDE](https://github.com/naikpoojagetoewit/AksharaX-IDE)
-</details>
-
-<br/>
-
-### <img src="https://img.shields.io/badge/-%3E_stats.log-1E1E1E?style=flat-square&logoColor=569CD6" height="24"/>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=naikpoojagetoewit&show_icons=true&hide_border=true&bg_color=1E1E1E&title_color=569CD6&text_color=D4D4D4&icon_color=CE9178" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naikpoojagetoewit&hide_border=true&background=1E1E1E&border=1E1E1E&stroke=1E1E1E&ring=569CD6&fire=CE9178&currStreakNum=D4D4D4&sideNums=D4D4D4&currStreakLabel=D4D4D4&sideLabels=D4D4D4&dates=9B9B9B" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naikpoojagetoewit&layout=compact&hide_border=true&bg_color=1E1E1E&title_color=569CD6&text_color=D4D4D4" width="40%" />
-</p>
-
-<br/>
-
-<p align="center">
-<a href="https://linkedin.com/in/pooja-n-naik"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=569CD6" /></a>
-<a href="https://poojanaik.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=firefox&logoColor=CE9178" /></a>
-<a href="mailto:npoojanaik12@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=DCDCAA" /></a>
-</p>
-
-<p align="center"><sub>// Open to Software Engineer, Backend Developer & Full Stack opportunities</sub></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
