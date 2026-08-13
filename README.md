@@ -4,9 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+with+Java+%26+Spring+Boot;Turning+ideas+into+full-stack+web+applications" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=naikpoojagetoewit&color=A78BFA&style=flat)
-![Followers](https://img.shields.io/github/followers/naikpoojagetoewit?label=Followers&color=A78BFA&style=flat)
-
 </div>
 
 ---
@@ -43,6 +40,11 @@
     <td align="center" width="96">
       <a href="https://poojanaik.netlify.app/" target="_blank">
         <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="55" height="55" alt="Portfolio"/>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://in.pinterest.com/npoojanaik12/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pinterest/pinterest-original.svg" width="55" height="55" alt="Pinterest"/>
       </a>
     </td>
   </tr>
