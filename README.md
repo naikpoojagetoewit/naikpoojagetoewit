@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pooja%20Naik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full-Stack%20Developer%20%7C%20Embedded%20Systems%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pooja%20Naik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+with+Java+%26+Spring+Boot;From+circuits+to+code+%E2%80%94+embedded+systems+to+full-stack+web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+with+Java+%26+Spring+Boot;Turning+ideas+into+full-stack+web+applications" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=naikpoojagetoewit&color=A78BFA&style=flat)
 ![Followers](https://img.shields.io/github/followers/naikpoojagetoewit?label=Followers&color=A78BFA&style=flat)
@@ -67,7 +67,7 @@
 <td align="center" width="70"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="55" height="55" title="Postman"/></td>
 </tr></table>
 
-**Embedded & Desktop**
+**Desktop Development**
 <table><tr>
 <td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55" height="55" title="Arduino"/></td>
 <td align="center" width="70"><img src="https://cdn.simpleicons.org/qt/41CD52" width="55" height="55" title="Qt"/></td>
